@@ -1,1 +1,1 @@
-git dir readme
+git directory readme
